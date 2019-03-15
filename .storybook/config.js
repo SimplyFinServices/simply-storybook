@@ -5,6 +5,4 @@ function loadStories() {
   require('../src/stories');
 }
 
-// addParameters({ viewport: options });
-
 configure(loadStories, module);
